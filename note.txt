@@ -20,6 +20,12 @@ upgrade module
     bikin tag baru aja
 
 upgrade dependensi
-    
+    bisa ubah langsung isi go.mod
+    lalu go get ulang semua module (go get aja)
 
 major upgrade
+    sangat dihindari jika tidak backward kompatible
+    jika terpaksa, ganti nama module
+    biasanya ditambah di akhir seperti
+    github.com/LeaOhyeah/go-say-hello menjadi github.com/LeaOhyeah/go-say-hello/v2
+    lalu dependensi berubah require nya

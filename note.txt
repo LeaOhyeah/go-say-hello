@@ -1,0 +1,5 @@
+membuat module
+    buat repo github
+    buat module dengan go mod init (nama module)
+    nama module menggunakan repo github, misal: github.com/LeaOhyeah/go-say-hello
+    tanpa http nya

@@ -3,3 +3,8 @@ membuat module
     buat module dengan go mod init (nama module)
     nama module menggunakan repo github, misal: github.com/LeaOhyeah/go-say-hello
     tanpa http nya
+
+relase versi
+    buat tag di git
+    tag dimulai dengan huruf v
+    misal v1.0.0

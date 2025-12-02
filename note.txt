@@ -8,3 +8,18 @@ relase versi
     buat tag di git
     tag dimulai dengan huruf v
     misal v1.0.0
+
+
+menambah dependensi (menggunakan module)
+    dengan go get (nama module/pakcage lain)
+    go get github.com/LeaOhyeah/go-say-hello
+    sekarang di go.mod ada require baru, dan ada juga go.sum
+
+
+upgrade module
+    bikin tag baru aja
+
+upgrade dependensi
+    
+
+major upgrade
